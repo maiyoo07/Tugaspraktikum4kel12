@@ -1,0 +1,59 @@
+{
+    "anggota": [
+        {
+            "nama": "rafi nayottama",
+            "divisi": "acara",
+            "beban": 0
+        },
+        {
+            "nama": "arazy fadhillah",
+            "divisi": "acara",
+            "beban": 0
+        },
+        {
+            "nama": "gigih maulana baihaqi",
+            "divisi": "dokumentasi",
+            "beban": 0
+        },
+        {
+            "nama": "yancey raymoundo pauricio",
+            "divisi": "dokumentasi",
+            "beban": 5
+        }
+    ],
+    "tugas": [
+        {
+            "nama": "survei lokasi",
+            "divisi": "acara",
+            "beban": 3,
+            "prioritas": 3,
+            "status": "Belum",
+            "assigned_to": null
+        },
+        {
+            "nama": "memasang mmt",
+            "divisi": "dokumentasi",
+            "beban": 5,
+            "prioritas": 3,
+            "status": "Berjalan",
+            "assigned_to": "yancey raymoundo pauricio"
+        },
+        {
+            "nama": "cek device",
+            "divisi": "dokumentasi",
+            "beban": 2,
+            "prioritas": 2,
+            "status": "Belum",
+            "assigned_to": null
+        }
+    ],
+    "riwayat_tugas": [
+        {
+            "nama": "membuat rd acara",
+            "divisi": "acara",
+            "beban": 4,
+            "prioritas": 3,
+            "assigned_to": "rafi nayottama"
+        }
+    ]
+}
